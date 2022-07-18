@@ -1,3 +1,18 @@
-.helloWorld {
-  color: rgb(175, 0, 255);
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import './assets/styles/colors.scss';
+body {
+  // font-family: 'Metal Mania', cursive !important;
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif !important;
+  box-sizing: border-box;
+  background: #f8f9fa;
+}
+.green-bar {
+  background-color: #4caf50;
+  height: 80px;
+  width: 100%;
+
+
+
 }
